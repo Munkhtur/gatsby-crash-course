@@ -18,7 +18,6 @@ const BlogPage = ({ data }) => (
         <br />
         <div dangerouslySetInnerHTML={{ __html: post.node.html }} />
         <br />
-        <div>{post.node.html}</div>
         <br />
         <br />
         <hr />

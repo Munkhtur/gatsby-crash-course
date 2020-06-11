@@ -1,0 +1,25 @@
+---
+date: "2020-06-11"
+title: "Third post"
+---
+
+###Choose your own adventure and peruse the various sections of the Gatsby docs:
+
+Reference Guides: Learn _about_ the many different topics around building with Gatsby, like sourcing data, deployment, and more.
+Gatsby API Reference: Learn more about Gatsby APIs and configuration.
+Releases & Migration: Find release notes and guides for migration between major versions.
+Conceptual Guide: Read high-level overviews of the Gatsby approach.
+Gatsby Internals: Dig into how Gatsby works behind the scenes.
+Using Gatsby Professionally:
+
+- Learn tips and tricks for how to
+- explain Gatsby to others at work,
+- so that you have more opportunities
+- to work with Gatsby professionally.
+
+---
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
